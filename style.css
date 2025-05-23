@@ -17,9 +17,9 @@ html,body{
 }
 
 
-.C{
+.C, .maind{
 
-  background-image: linear-gradient(#f1f2f0, #eaede8, #e3e8e1, #dbe0d7, #d5dbd0, #cdd4c8);
+  background-image: linear-gradient( #cdd4c8, #d5dbd0,  #dbe0d7,#e3e8e1, #eaede8, #f1f2f0, white);
 }
 .Details p strong{
   color: #647855;
